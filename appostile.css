@@ -1,0 +1,107 @@
+.main-page-wrapper {
+    margin-top: -80px;
+}
+
+.wd-prefooter {
+    display: none;
+}
+.site-logo{
+	margin-top:-250px;
+}
+
+.whb-header-bottom{
+	
+	height:0px;
+}
+.btn.btn-scheme-dark{
+	color: #fc3823;
+}
+
+.header-btn,.btn-size-default{
+	padding: 10px 28px !important;}
+
+
+.footer-sec{
+	overflow:revert !important;
+}
+
+.footer-image img{
+	max-width: 80% !important;
+}
+
+.wd-testimon{
+	display:flex !important;
+	flex-direction: column-reverse;
+}
+
+lable {
+    color: #aba5a5;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+color: #aba5a5 !important;
+opacity: 1;
+}
+
+input[type='text'],input[type='email']{
+	border:unset;
+	border-bottom:1px solid #d9d9d9!important;
+}
+
+.gform_fileupload_rules{display:none;}
+
+
+element.style {
+    position: relative;
+}
+.gform_wrapper.gravity-theme * {
+    box-sizing: border-box;
+}
+.gform_drop_area {
+  background: #fff;
+	border: none;
+	border-bottom:1px solid #d9d9d9!important;
+}
+
+#gfield_description_1_6,.gform_drop_instructions{
+	color: #aba5a5 !important;
+}
+
+input#gform_submit_button_1 {
+    width: 100%;
+    background-color: #fc3823;
+    color: #fff;
+}
+
+.gform_wrapper.gravity-theme .gfield_label {
+	color: #aba5a5 !important;
+	font-size:14px;
+	font-weight:300;
+	padding-left:10px;
+}
+
+.gform_drop_instructions {
+    display: none;
+}
+
+ #gform_browse_button_1_6 {
+    background-color: transparent;
+    color: #fff;
+	 margin-top:-50px;
+    margin-right:-50px !important;
+	  float:right;
+}
+
+#gform_browse_button_1_6:hover{
+	box-shadow:none !important;
+}
+
+#gform_browse_button_1_6:after{
+	content:url('/wp-content/uploads/2022/08/icon-attach.png') !important;
+	
+} 
+
+.gform_drop_area{
+	padding-top:10px;
+	padding-bottom:0;
+}
